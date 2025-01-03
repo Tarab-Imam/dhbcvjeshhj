@@ -1,4 +1,4 @@
 # Programs
 I'll write some codes here.
 <br>
-I will use some programs like C,python here.
+I'll use programs like C,python here.
